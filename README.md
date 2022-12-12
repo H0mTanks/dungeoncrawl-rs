@@ -11,9 +11,10 @@ A simple dungeon crawler game written In Rust.
 
 - Randomly generated map with simple rooms. (DONE)
 - Map tile sprites. (DONE)
-- Monsters. (WIP)
+- Monsters spawning. (DONE)
 - Item pickups. (Not Started)
-- Turn based combat system. (Not Started)
+- Turn based movement of player and enemies. (DONE)
+- Health and melee combat. (Not Started)
 - Map reveal using an FOV. (Not Started)
 - More complex maps. (Not Started)
 - Different Map themes. (Not Started)
